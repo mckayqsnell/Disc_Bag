@@ -19,7 +19,7 @@ In the future, the application may pull course details (e.g., distances, layouts
 
 **Frontend**: 
 - React (TypeScript)
-- Node.js (for local dev tooling if desired)
+- Node.js
 
 **Backend**: 
 - FastAPI (Python)
